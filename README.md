@@ -35,8 +35,13 @@ I have made a PCB that makes using these displays really easy! It makes use of t
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/PCB_V2.1.png "PCB V2.1")
 
 ### Change log of Version
-* First version
+
+V2.1
 * Reduce PCB size, suitable on some smaller displays
+
+
+V1.1
+* First version
 
 
 
