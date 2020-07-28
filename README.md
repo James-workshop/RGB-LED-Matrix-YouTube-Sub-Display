@@ -8,7 +8,9 @@ Thanks to Brian Lough for the inspiration and the original sketch.
 
 Here is a note of my production process. For more detailed instructions, please go to [Brian Lough's GitHub](https://github.com/witnessmenow)
 
+# Hardware
 
+![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/Schematic.png "RGB LED Matrix YouTube Sub Display")
 
 # Arduino YouTube API
 ## Getting a Google Apps API key (Required!)
