@@ -35,7 +35,6 @@ I have made a PCB that makes using these displays really easy! It makes use of t
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/PCB_V2.1.png "PCB V2.1")
 
 ### Change log of Version
-
 V2.1
 * Reduce PCB size, suitable on some smaller displays
 
@@ -44,16 +43,16 @@ V1.1
 * First version
 
 
-
-# Arduino YouTube API
-## Getting a Google Apps API key (Required!)
+# Install & config Libraries
+## Arduino YouTube API
+### Getting a Google Apps API key (Required!)
 * Create an application [here](https://console.developers.google.com/)
 * On the API Manager section, go to "Credentials" and create a new API key
 * Enable your application to communicate the YouTube Api [here](https://console.developers.google.com/apis/api/youtube)
 * Make sure the following URL works for you in your browser (Change the key at the end!): <https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCezJOfu7OtqGzd5xrP3q6WA&key=PutYourNewlyGeneratedKeyHere>
 
 
-## Installing
+### Installing
 The easiest way to install this library is through the aduino library manager, just search for "Youtube"
 
 You also have to install the ArduinoJson library written by [Benoît Blanchon](https://github.com/bblanchon). Search for it on the Arduino Library manager or get it from [here](https://github.com/bblanchon/ArduinoJson).
@@ -70,7 +69,8 @@ and pass it a Bot token and a SSL Client (See the examples for more details)
 >
 >YoutubeApi bot(API_KEY, client);
 
-# PxMatrix - LED matrix panel driver for ESP8266, ESP32 and ATMEL
+
+## PxMatrix - LED matrix panel driver for ESP8266, ESP32 and ATMEL
 
 detailed instructions, please go to [Dominic Buchstaller](https://github.com/2dom/PxMatrix)
 
