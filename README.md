@@ -25,6 +25,7 @@ Here is a note of my production process. For more detailed instructions, please 
 * 3 Line Dip Switch (VDG-03HG-R)
 * 5.0mm Screw Terminals 2Pin *2
 * D1 Mini Matrix Shield PCB
+* RGB LED Matrix Panel that is compatible with the PXMatrix library wiring [Described Here](https://github.com/2dom/PxMatrix#set-up-and-cabling)
 
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/Schematic.png "Schematic")
 
