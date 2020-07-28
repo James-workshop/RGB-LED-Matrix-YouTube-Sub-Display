@@ -11,7 +11,6 @@ Here is a note of my production process. For more detailed instructions, please 
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/RGB-LED-Matrix-YouTube-Sub-Display.jpg "RGB LED Matrix YouTube Sub Display")
 
 # Hardware
-
 * D1 Mini
 * 220uF 25V Capacitor
 * 220k Ohm Resistor
@@ -28,6 +27,18 @@ Here is a note of my production process. For more detailed instructions, please 
 * RGB LED Matrix Panel that is compatible with the PXMatrix library wiring [Described Here](https://github.com/2dom/PxMatrix#set-up-and-cabling)
 
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/Schematic.png "Schematic")
+
+
+## D1 Mini Matrix Shield PCB
+I have made a PCB that makes using these displays really easy! It makes use of the wires than come with the displays for easier connections.
+
+![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/PCB_V2.1.png "PCB V2.1")
+
+### Change log of Version
+* First version
+* Reduce PCB size, suitable on some smaller displays
+
+
 
 # Arduino YouTube API
 ## Getting a Google Apps API key (Required!)
