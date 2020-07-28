@@ -8,9 +8,25 @@ Thanks to Brian Lough for the inspiration and the original sketch.
 
 Here is a note of my production process. For more detailed instructions, please go to [Brian Lough's GitHub](https://github.com/witnessmenow)
 
+![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/RGB-LED-Matrix-YouTube-Sub-Display.jpg "RGB LED Matrix YouTube Sub Display")
+
 # Hardware
 
-![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/Schematic.png "RGB LED Matrix YouTube Sub Display")
+* D1 Mini
+* 220uF 25V Capacitor
+* 220k Ohm Resistor
+* 1N4001 Diode
+* 3 pin male header
+* 1 Jumper block
+* 16 pin female header (2x8)
+* 16 pin right angle male header (2x8)
+* Large Green screw terminals (KF8500-2P-8.4MM)
+* 1 Barrel Jack (5 x 2.0mm)
+* 3 Line Dip Switch (VDG-03HG-R)
+* 5.0mm Screw Terminals 2Pin *2
+* D1 Mini Matrix Shield PCB
+
+![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/Schematic.png "Schematic")
 
 # Arduino YouTube API
 ## Getting a Google Apps API key (Required!)
