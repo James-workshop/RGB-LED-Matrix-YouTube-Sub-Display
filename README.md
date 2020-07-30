@@ -20,7 +20,6 @@ Here is a note of my production process. For more detailed instructions, please 
 * 16 pin female header (2x8)
 * 16 pin right angle male header (2x8)
 * Large Green screw terminals (KF8500-2P-8.4MM)
-* 1 Barrel Jack (5 x 2.0mm)
 * 3 Line Dip Switch (VDG-03HG-R)
 * 5.0mm Screw Terminals 2Pin *2
 * D1 Mini Matrix Shield PCB
