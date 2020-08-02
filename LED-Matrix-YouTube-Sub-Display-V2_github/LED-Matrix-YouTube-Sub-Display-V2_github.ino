@@ -49,11 +49,11 @@
 
  
 //------- Replace the following! ------
-char ssid[] = "styles.hk";       // your network SSID (name)
-char password[] = "94616265";  // your network key
+char ssid[] = "yourssid";       // your network SSID (name)
+char password[] = "key";  // your network key
 //Youtube API
-#define API_KEY "AIzaSyAGeEkOozpxniv-tLjLGCAB4uKxL0EN0T0"  // your google apps API Token 
-#define CHANNEL_ID "UCVu_djI4he6xcCREXXKma0Q" // makes up the url of channel
+#define API_KEY "your_google_apps_API_Token"  // your google apps API Token 
+#define CHANNEL_ID "your_YT_CHANNEL_ID" // makes up the url of channel
 
 //------------------------------
 
