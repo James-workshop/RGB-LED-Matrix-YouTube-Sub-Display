@@ -34,10 +34,8 @@ I have made a PCB at JLCPCB.com that makes using these displays really easy! It 
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/PCB_V2.1.png "PCB V2.1")
 
 
-### PLCPCB - Make hardware development easier, Higher Quality & Lower Cost
-### New registered users offer 
-
-**Order here https://jlcpcb.com/HAR**
+### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
+### New registered users offer , **Order here https://jlcpcb.com/HAR**
 <BR><BR><BR>
 ### Change log of Version
 V2.2
