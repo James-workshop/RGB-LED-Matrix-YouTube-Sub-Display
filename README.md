@@ -33,7 +33,17 @@ I have made a PCB that makes using these displays really easy! It makes use of t
 
 ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/PCB_V2.1.png "PCB V2.1")
 
+
+## New registered users coupon $18
+
+**Order here https://jlcpcb.com/HAR**
+
+
 ### Change log of Version
+V2.2
+* Adjust PCB size
+![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/PCB_V2.2.jpg "PCB V2.2")
+
 V2.1
 * Reduce PCB size, suitable on some smaller displays
 
