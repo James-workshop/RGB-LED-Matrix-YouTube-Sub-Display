@@ -36,6 +36,7 @@ I have made a PCB at JLCPCB.com that makes using these displays really easy! It 
 
 ### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
 ### New registered users offer , **Order here https://jlcpcb.com/HAR**
+### You can use my Gerber file to place an order at JLCPCB.com
 <BR><BR><BR>
 ### Change log of Version
 V2.2
