@@ -53,6 +53,7 @@ V1.1
   
 ## How to make<BR>
   <a href="https://youtu.be/3v2Arlc7Ogg">https://youtu.be/3v2Arlc7Ogg</a>
+      ![github](https://github.com/James-workshop/RGB-LED-Matrix-YouTube-Sub-Display/blob/master/Cover_photo.jpg "Youtube Cover Photo")
 
 # Install & config Libraries
 ## Arduino YouTube API
